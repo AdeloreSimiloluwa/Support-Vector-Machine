@@ -1,5 +1,5 @@
 # Support-Vector-Machine
-Support vector classification with python on whether customers to take an action or not (purchase or not) for a product.
+### Support vector classification with python on whether customers to take an action or not (purchase or not) for a product.
 
 What this algorithm does is to find the line that best maximizes the margin between the support vectors from the classes in the data.
 
